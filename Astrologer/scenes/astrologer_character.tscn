@@ -1,0 +1,31 @@
+[gd_scene load_steps=2 format=3 uid="uid://bmqayjubh5k7h"]
+
+[ext_resource type="Texture2D" uid="uid://brkxo51fgh2v1" path="res://Astrologer/images/ui/CharacterArt.png" id="1_rp4vu"]
+
+[node name="AstrologerCharacter" type="Node2D"]
+
+[node name="Visuals" type="Sprite2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(0, -164)
+scale = Vector2(0.08, 0.08)
+texture = ExtResource("1_rp4vu")
+
+[node name="Bounds" type="Control" parent="."]
+unique_name_in_owner = true
+layout_mode = 3
+anchors_preset = 0
+offset_left = -120.0
+offset_top = -328.0
+offset_right = 120.0
+
+[node name="IntentPos" type="Marker2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(0, -159)
+
+[node name="CenterPos" type="Marker2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(0, -72)
+
+[node name="TalkPos" type="Marker2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(0, -144)

@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\bin\ExportRelease\win-x64\Astrologer.deps.json
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\bin\ExportRelease\win-x64\Astrologer.dll
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\bin\ExportRelease\win-x64\Astrologer.pdb
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\obj\ExportRelease\win-x64\Astrologer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\obj\ExportRelease\win-x64\Astrologer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\obj\ExportRelease\win-x64\Astrologer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\obj\ExportRelease\win-x64\Astrologer.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\obj\ExportRelease\win-x64\Astrologer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\obj\ExportRelease\win-x64\Astrologer.dll
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\obj\ExportRelease\win-x64\refint\Astrologer.dll
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\obj\ExportRelease\win-x64\Astrologer.pdb
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\obj\ExportRelease\win-x64\ref\Astrologer.dll

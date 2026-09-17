@@ -1,0 +1,17 @@
+{
+  "ASTROLOGER_CHARACTER_ASTROLOGER_CHARACTER.aromaPrinciple": "[sine][blue]啊……这些香气可真危险，差点就迷失方向了呢~[/blue][/sine]",
+  "ASTROLOGER_CHARACTER_ASTROLOGER_CHARACTER.banter.alive.endTurnPing": "能按下回合结束按钮吗？就你屏幕右边那个~",
+  "ASTROLOGER_CHARACTER_ASTROLOGER_CHARACTER.banter.dead.endTurnPing": "晚安~",
+  "ASTROLOGER_CHARACTER_ASTROLOGER_CHARACTER.cardsModifierDescription": "占星师的卡牌现在会出现在奖励和商店中。",
+  "ASTROLOGER_CHARACTER_ASTROLOGER_CHARACTER.cardsModifierTitle": "占星师卡牌",
+  "ASTROLOGER_CHARACTER_ASTROLOGER_CHARACTER.description": "一位来自遥远地区的占星师。\n擅长利用月相的力量和塔罗牌进行战斗。",
+  "ASTROLOGER_CHARACTER_ASTROLOGER_CHARACTER.eventDeathPrevention": "哇呜呜~占卜的结果不该是这样的~~",
+  "ASTROLOGER_CHARACTER_ASTROLOGER_CHARACTER.goldMonologue": "[sine]哇！好多金币~[/sine]",
+  "ASTROLOGER_CHARACTER_ASTROLOGER_CHARACTER.possessiveAdjective": "她的",
+  "ASTROLOGER_CHARACTER_ASTROLOGER_CHARACTER.pronounObject": "她",
+  "ASTROLOGER_CHARACTER_ASTROLOGER_CHARACTER.pronounPossessive": "她的",
+  "ASTROLOGER_CHARACTER_ASTROLOGER_CHARACTER.pronounSubject": "她",
+  "ASTROLOGER_CHARACTER_ASTROLOGER_CHARACTER.title": "占星师",
+  "ASTROLOGER_CHARACTER_ASTROLOGER_CHARACTER.titleObject": "占星师",
+  "ASTROLOGER_CHARACTER_ASTROLOGER_CHARACTER.unlockText": "呜呜呜~怎么锁住了！"
+}

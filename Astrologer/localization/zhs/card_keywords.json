@@ -1,0 +1,8 @@
+{
+    "ASTROLOGER_KEYWORD_MOON_ENHANCE.title": "月相增幅",
+    "ASTROLOGER_KEYWORD_MOON_ENHANCE.description": "卡牌的效果会根据[blue]月相[/blue]提升\r上弦月与下弦月时, 卡牌效果提升至1.5倍\r满月时, 卡牌效果提升至3倍",
+    "ASTROLOGER_KEYWORD_TAROT.title": "塔罗牌",
+    "ASTROLOGER_KEYWORD_TAROT.description": "这张牌属于[gold]塔罗牌[/gold]",
+    "ASTROLOGER_KEYWORD_TRANSIENT.title": "易逝",
+    "ASTROLOGER_KEYWORD_TRANSIENT.description": "打出此牌后\r将此牌从你的[gold]牌组[/gold]中移除"
+}

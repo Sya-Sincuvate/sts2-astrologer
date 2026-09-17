@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\bin\Debug\Astrologer.deps.json
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\bin\Debug\Astrologer.dll
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\bin\Debug\Astrologer.pdb
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\obj\Debug\Astrologer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\obj\Debug\Astrologer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\obj\Debug\Astrologer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\obj\Debug\Astrologer.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\obj\Debug\Astrologer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\obj\Debug\Astrologer.dll
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\obj\Debug\refint\Astrologer.dll
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\obj\Debug\Astrologer.pdb
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\obj\Debug\ref\Astrologer.dll
