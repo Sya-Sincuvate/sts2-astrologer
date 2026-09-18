@@ -105,5 +105,11 @@
     "ASTROLOGER_CARD_FATE_CARD.title": "命运之牌",
     "ASTROLOGER_CARD_FATE_CARD.description": "从3张随机{IfUpgraded:show:[gold]升级[/gold]的|}[gold]塔罗牌[/gold]中\r选择1张加入你的[gold]手牌[/gold]",
     "ASTROLOGER_CARD_PRAY_LIGHT1.title": "祈愿之光-解放I",
-    "ASTROLOGER_CARD_PRAY_LIGHT1.description": "获得{Energy:diff()}点能量\r将一张[gold]{IfUpgraded:show:祈愿之光-解放II+|祈愿之光-解放II}[/gold]加入你的弃牌堆"
+    "ASTROLOGER_CARD_PRAY_LIGHT1.description": "获得{Energy:diff()}点能量\r将一张[gold]{IfUpgraded:show:祈愿之光-解放II+|祈愿之光-解放II}[/gold]加入你的弃牌堆",
+    "ASTROLOGER_CARD_PRAY_LIGHT2.title": "祈愿之光-解放II",
+    "ASTROLOGER_CARD_PRAY_LIGHT2.description": "获得{Energy:diff()}点能量\r将一张[gold]{IfUpgraded:show:祈愿之光-解放III+|祈愿之光-解放III}[/gold]加入你的弃牌堆",
+    "ASTROLOGER_CARD_PRAY_LIGHT3.title": "祈愿之光-解放III",
+    "ASTROLOGER_CARD_PRAY_LIGHT3.description": "获得{Energy:diff()}点能量\r将一张[gold]{IfUpgraded:show:祈愿之光-解放完成+|祈愿之光-解放完成}[/gold]加入你的弃牌堆",
+    "ASTROLOGER_CARD_PRAY_LIGHT_LIBERATE.title": "祈愿之光-解放完成",
+    "ASTROLOGER_CARD_PRAY_LIGHT_LIBERATE.description": "获得{Energy:diff()}点能量"
 }
