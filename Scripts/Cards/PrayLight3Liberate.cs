@@ -27,7 +27,6 @@ public class PrayLightLiberate : ModCardTemplate
     );
     public override IEnumerable<CardKeyword> CanonicalKeywords =>
     [
-        CardKeyword.Exhaust
     ];
 
     protected override IEnumerable<IHoverTip> AdditionalHoverTips => [

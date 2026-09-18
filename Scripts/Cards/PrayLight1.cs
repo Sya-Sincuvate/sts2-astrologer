@@ -31,7 +31,9 @@ public class PrayLight1 : ModCardTemplate
     ];
 
     protected override IEnumerable<IHoverTip> AdditionalHoverTips => [
-        
+        HoverTipFactory.FromCard<PrayLight2>(IsUpgraded),
+        HoverTipFactory.FromCard<PrayLight3>(IsUpgraded),
+        HoverTipFactory.FromCard<PrayLightLiberate>(IsUpgraded)
     ];
 
     // 卡牌基础数值
