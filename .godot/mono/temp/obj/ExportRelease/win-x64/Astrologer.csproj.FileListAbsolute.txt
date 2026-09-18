@@ -10,3 +10,4 @@ C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\obj\Exp
 C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\obj\ExportRelease\win-x64\refint\Astrologer.dll
 C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\obj\ExportRelease\win-x64\Astrologer.pdb
 C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\obj\ExportRelease\win-x64\ref\Astrologer.dll
+C:\Users\Administrator\Desktop\Godot\Project\astrologer\.godot\mono\temp\obj\ExportRelease\win-x64\Astrologer.sourcelink.json
