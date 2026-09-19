@@ -35,7 +35,7 @@ public class PrayLightLiberate : ModCardTemplate
 
     // 卡牌基础数值
     protected override IEnumerable<DynamicVar> CanonicalVars => [
-        new EnergyVar(4)
+        new EnergyVar(3)
     ];
 
     public PrayLightLiberate() : base(energyCost, type, rarity, targetType, shouldShowInCardLibrary)

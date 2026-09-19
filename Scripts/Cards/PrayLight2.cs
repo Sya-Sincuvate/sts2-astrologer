@@ -6,6 +6,7 @@ using MegaCrit.Sts2.Core.Localization.DynamicVars;
 using MegaCrit.Sts2.Core.Models.CardPools;
 using MegaCrit.Sts2.Core.Models.Cards;
 using MegaCrit.Sts2.Core.ValueProps;
+using MegaCrit.Sts2.Core.Models;
 using STS2RitsuLib.Cards.DynamicVars;
 using STS2RitsuLib.Interop.AutoRegistration;
 using STS2RitsuLib.Keywords;
@@ -37,7 +38,7 @@ public class PrayLight2 : ModCardTemplate
 
     // 卡牌基础数值
     protected override IEnumerable<DynamicVar> CanonicalVars => [
-        new EnergyVar(2)
+        new EnergyVar(1)
     ];
 
     public PrayLight2() : base(energyCost, type, rarity, targetType, shouldShowInCardLibrary)
@@ -47,6 +48,13 @@ public class PrayLight2 : ModCardTemplate
     protected override async Task OnPlay(PlayerChoiceContext choiceContext, CardPlay cardPlay)
     {
         await PlayerCmd.GainEnergy(DynamicVars.Energy.BaseValue, Owner);
+        CardModel card = CombatState.CreateCard<PrayLight3>(Owner);
+        if (IsUpgraded)
+        {
+            CardCmd.Upgrade(card);
+        }
+        CardCmd.PreviewCardPileAdd(await CardPileCmd.AddGeneratedCardToCombat(card, PileType.Discard, Owner));
+        await Cmd.Wait(0.5f);
     }
 
     protected override void OnUpgrade()
