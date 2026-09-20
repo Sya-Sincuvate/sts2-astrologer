@@ -43,7 +43,7 @@ public class Lost : ModCardTemplate
     protected override async Task OnPlay(PlayerChoiceContext choiceContext, CardPlay cardPlay)
     {
         await CardPileCmd.Draw(choiceContext, DynamicVars.Cards.BaseValue, Owner);
-        List<CardModel> selection = [.. await CardSelectCmd.FromHand(prefs: new CardSelectorPrefs(CardSelectorPrefs.TransformSelectionPrompt, 2), context: choiceContext, player: Owner, filter: null, source: this)];
+        List<CardModel> selection = [.. await CardSelectCmd.FromHand(prefs: new CardSelectorPrefs(CardSelectorPrefs.TransformSelectionPrompt, DynamicVars.Cards.IntValue), context: choiceContext, player: Owner, filter: null, source: this)];
         foreach (CardModel item in selection)
         {
             await CardCmd.Transform(item, CombatState.CreateCard<Dazed>(Owner));
