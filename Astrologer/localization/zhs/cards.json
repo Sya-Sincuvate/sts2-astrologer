@@ -113,5 +113,7 @@
     "ASTROLOGER_CARD_PRAY_LIGHT_LIBERATE.title": "祈愿之光-解放完成",
     "ASTROLOGER_CARD_PRAY_LIGHT_LIBERATE.description": "获得{Energy:diff()}点能量",
     "ASTROLOGER_CARD_LOST.title": "迷失",
-    "ASTROLOGER_CARD_LOST.description": "抽{Cards:diff()}张牌\r选择你手牌中的{Cards:diff()}张牌\r将其变化为[gold]晕眩[/gold]"
+    "ASTROLOGER_CARD_LOST.description": "抽{Cards:diff()}张牌\r选择你手牌中的{Cards:diff()}张牌\r将其变化为[gold]晕眩[/gold]",
+    "ASTROLOGER_CARD_HALLUCINOGENIC_MUSHROOMS.title": "致幻菌菇",
+    "ASTROLOGER_CARD_HALLUCINOGENIC_MUSHROOMS.description": "抽{Cards:diff()}张牌\r将3张[gold]晕眩[/gold]加入你的抽牌堆"
 }
