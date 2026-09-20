@@ -111,5 +111,7 @@
     "ASTROLOGER_CARD_PRAY_LIGHT3.title": "祈愿之光-解放III",
     "ASTROLOGER_CARD_PRAY_LIGHT3.description": "获得{Energy:diff()}点能量\r将一张[gold]{IfUpgraded:show:祈愿之光-解放完成+|祈愿之光-解放完成}[/gold]加入你的弃牌堆",
     "ASTROLOGER_CARD_PRAY_LIGHT_LIBERATE.title": "祈愿之光-解放完成",
-    "ASTROLOGER_CARD_PRAY_LIGHT_LIBERATE.description": "获得{Energy:diff()}点能量"
+    "ASTROLOGER_CARD_PRAY_LIGHT_LIBERATE.description": "获得{Energy:diff()}点能量",
+    "ASTROLOGER_CARD_LOST.title": "迷失",
+    "ASTROLOGER_CARD_LOST.description": "抽{Cards:diff()}张牌\r选择你手牌中的{Cards:diff()}张牌\r将其变化为[gold]晕眩[/gold]"
 }
