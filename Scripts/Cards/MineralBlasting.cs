@@ -25,6 +25,9 @@ public class MineralBlasting : ModCardTemplate
     public override CardAssetProfile AssetProfile => new(
         PortraitPath: $"res://Astrologer/images/cards/MineralBlasting.png"
     );
+    protected override IEnumerable<IHoverTip> AdditionalHoverTips => [
+        HoverTipFactory.FromCard<Dazed>()
+    ];
     // 卡牌基础数值
     protected override IEnumerable<DynamicVar> CanonicalVars => [
         new DynamicVar("Ast", 8m),
@@ -52,6 +55,14 @@ public class MineralBlasting : ModCardTemplate
             .FromCard(this, cardPlay)
             .Targeting(cardPlay.Target!)
             .Execute(choiceContext);
+        List<CardModel> list = [.. PileType.Exhaust.GetPile(Owner).Cards];
+        foreach (CardModel item in list)
+        {
+            if (item is Dazed)
+            {
+                await CardPileCmd.RemoveFromCombat(item);
+            }
+        }
     }
 
     protected override void OnUpgrade()
