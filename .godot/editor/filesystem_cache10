@@ -9,7 +9,7 @@ README.md::TextFile::-1::1789608873::0::1::::<><><>0<>0<><>::
 kreon_bold.ttf::FontFile::4509002249332076735::1786500792::1786951951::1::::<><><>0<>0<>c4c41ed90e24d570205deffd0fef486f<>res://.godot/imported/kreon_bold.ttf-9fcefdf88392a92f9e640cd200154529.fontdata::
 ::res://Astrologer/images/::1786951402
 energy.png::CompressedTexture2D::4939518976082813736::1786950162::1786951402::1::::<><><>0<>0<>b625fb8d0e8c00f24a400934f1515750<>res://.godot/imported/energy.png-95a624df8bb3b33f222437c683154b25.ctex::
-::res://Astrologer/images/cards/::1789958908
+::res://Astrologer/images/cards/::1789977927
 AnchorMoon.png::CompressedTexture2D::8387890011632361685::1787031904::1787032388::1::::<><><>0<>0<>5d997d1c5f78592a7e7bdbb796c7a62f<>res://.godot/imported/AnchorMoon.png-692a7707f024f32061a652fac44281a9.ctex::
 AncientWeapon.png::CompressedTexture2D::3374080647262323538::1787623490::1787625435::1::::<><><>0<>0<>4914f471b4342b5d5cf8d1cdda794888<>res://.godot/imported/AncientWeapon.png-2ba9378349c5d389a196409b7b3de8e4.ctex::
 AncientWeaponLiberate.png::CompressedTexture2D::1337783417734367952::1787624140::1787625435::1::::<><><>0<>0<>e32518b980624816cd764ddd048cbf50<>res://.godot/imported/AncientWeaponLiberate.png-3cb32f04f15c59d98cf605cdc3a0702c.ctex::
@@ -20,6 +20,7 @@ Defend.png::CompressedTexture2D::7780720058922603072::1787030860::1787032388::1:
 DivideLand.png::CompressedTexture2D::1606333261807604448::1787117811::1787118633::1::::<><><>0<>0<>e2f45d032d19b5d564434cea54762861<>res://.godot/imported/DivideLand.png-8f527586863d6abc536a93c13cad5cb4.ctex::
 EdenApple.png::CompressedTexture2D::3876707522209392602::1788396324::1788396657::1::::<><><>0<>0<>ece4bad6fda46e48a2e87267b635ae36<>res://.godot/imported/EdenApple.png-1055e788ffd23ebea53a2fb4dbe4981a.ctex::
 FateCard.png::CompressedTexture2D::2637877875592299860::1788851131::1788861821::1::::<><><>0<>0<>56369c9b8010678fedbf03669f58cad3<>res://.godot/imported/FateCard.png-64df181cc6ee8e5fbf3b5002fb938413.ctex::
+Fog.png::CompressedTexture2D::4706937069334852279::1789977864::1789978947::1::::<><><>0<>0<>0eed9c4d094419e50ffd545bcb7b10e3<>res://.godot/imported/Fog.png-9d2fe316b89c3218f688e1f3a907e5f8.ctex::
 GiantSword.png::CompressedTexture2D::8222760511573745217::1787275383::1787275674::1::::<><><>0<>0<>d492ba211daa99890598f864ee051e74<>res://.godot/imported/GiantSword.png-49fece0573f2878293f46ca1afa802a8.ctex::
 HallucinogenicMushrooms.png::CompressedTexture2D::5488080464417087826::1789893582::1789894670::1::::<><><>0<>0<>bbc063db50dc02416756981c1c6d1b7a<>res://.godot/imported/HallucinogenicMushrooms.png-f2c1c2aea35305b99382c86dddc5c692.ctex::
 hiro.jpg::CompressedTexture2D::3757423736734540798::1786505399::1786511276::1::::<><><>0<>0<>a22fe413e79bb275c8c75d350f195f7f<>res://.godot/imported/hiro.jpg-9e4c23a4ce67842d1abe325007a74e0a.ctex::
@@ -91,7 +92,7 @@ energy_out.png::CompressedTexture2D::8375708133792704273::1786950162::1786951402
 ::res://Astrologer/localization/::1786511063
 ::res://Astrologer/localization/zhs/::1787041523
 ancients.json::JSON::-1::1786975481::0::1::::<><><>0<>0<><>::
-cards.json::JSON::-1::1789959657::0::1::::<><><>0<>0<><>::
+cards.json::JSON::-1::1789978886::0::1::::<><><>0<>0<><>::
 card_keywords.json::JSON::-1::1788489486::0::1::::<><><>0<>0<><>::
 characters.json::JSON::-1::1786956515::0::1::::<><><>0<>0<><>::
 powers.json::JSON::-1::1788841511::0::1::::<><><>0<>0<><>::
@@ -111,7 +112,7 @@ AstrologerPotionPool.cs::CSharpScript::5504137788977131166::1786931722::0::1::::
 AstrologerRelicPool.cs::CSharpScript::4397473150134711914::1786951381::0::1::::<><><>0<>0<><>::
 Entry.cs::CSharpScript::699508848978882721::1788223985::0::1::::<><><>0<>0<><>::
 TarotCardPool.cs::CSharpScript::7144778001468855354::1788163682::0::1::::<><><>0<>0<><>::
-::res://Scripts/Cards/::1789958907
+::res://Scripts/Cards/::1789977968
 AnchorMoon.cs::CSharpScript::6914164817358406954::1788167080::0::1::::<><><>0<>0<><>::
 AncientWeapon1.cs::CSharpScript::4925689432633565164::1787625212::0::1::::<><><>0<>0<><>::
 AncientWeapon2.cs::CSharpScript::1391329618395317784::1787625155::0::1::::<><><>0<>0<><>::
@@ -124,6 +125,7 @@ Defend.cs::CSharpScript::3497318911644917299::1787032378::0::1::::<><><>0<>0<><>
 DivideLand.cs::CSharpScript::288787300968277051::1787118772::0::1::::<><><>0<>0<><>::
 EdenApple.cs::CSharpScript::6465976455737241952::1788857189::0::1::::<><><>0<>0<><>::
 FateCard.cs::CSharpScript::7184190733461193983::1788858209::0::1::::<><><>0<>0<><>::
+Fog.cs::CSharpScript::2711491320511343459::1789978761::0::1::::<><><>0<>0<><>::
 GiantSword.cs::CSharpScript::9116493547100359262::1787275753::0::1::::<><><>0<>0<><>::
 HallucinogenicMushrooms.cs::CSharpScript::1061694159308005974::1789895484::0::1::::<><><>0<>0<><>::
 Judgement.cs::CSharpScript::2624015086248993346::1788339097::0::1::::<><><>0<>0<><>::
