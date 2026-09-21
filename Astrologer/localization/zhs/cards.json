@@ -115,5 +115,7 @@
     "ASTROLOGER_CARD_LOST.title": "迷失",
     "ASTROLOGER_CARD_LOST.description": "抽{Cards:diff()}张牌\r选择你手牌中的{Cards:diff()}张牌\r将其变化为[gold]晕眩[/gold]",
     "ASTROLOGER_CARD_HALLUCINOGENIC_MUSHROOMS.title": "致幻菌菇",
-    "ASTROLOGER_CARD_HALLUCINOGENIC_MUSHROOMS.description": "抽{Cards:diff()}张牌\r将3张[gold]晕眩[/gold]加入你的抽牌堆"
+    "ASTROLOGER_CARD_HALLUCINOGENIC_MUSHROOMS.description": "抽{Cards:diff()}张牌\r将3张[gold]晕眩[/gold]加入你的抽牌堆",
+    "ASTROLOGER_CARD_MINERAL_BLASTING.title": "微差爆破",
+    "ASTROLOGER_CARD_MINERAL_BLASTING.description": "造成{ComputedDamage:diff()}点伤害\r你的消耗牌堆中每有一张[gold]晕眩[/gold]\r伤害增加{Ast:diff()}点\r将消耗牌堆中的所有[gold]晕眩[/gold]移除"
 }
