@@ -9,7 +9,7 @@ README.md::TextFile::-1::1789608873::0::1::::<><><>0<>0<><>::
 kreon_bold.ttf::FontFile::4509002249332076735::1786500792::1786951951::1::::<><><>0<>0<>c4c41ed90e24d570205deffd0fef486f<>res://.godot/imported/kreon_bold.ttf-9fcefdf88392a92f9e640cd200154529.fontdata::
 ::res://Astrologer/images/::1786951402
 energy.png::CompressedTexture2D::4939518976082813736::1786950162::1786951402::1::::<><><>0<>0<>b625fb8d0e8c00f24a400934f1515750<>res://.godot/imported/energy.png-95a624df8bb3b33f222437c683154b25.ctex::
-::res://Astrologer/images/cards/::1790064704
+::res://Astrologer/images/cards/::1790140617
 AnchorMoon.png::CompressedTexture2D::8387890011632361685::1787031904::1787032388::1::::<><><>0<>0<>5d997d1c5f78592a7e7bdbb796c7a62f<>res://.godot/imported/AnchorMoon.png-692a7707f024f32061a652fac44281a9.ctex::
 AncientWeapon.png::CompressedTexture2D::3374080647262323538::1787623490::1787625435::1::::<><><>0<>0<>4914f471b4342b5d5cf8d1cdda794888<>res://.godot/imported/AncientWeapon.png-2ba9378349c5d389a196409b7b3de8e4.ctex::
 AncientWeaponLiberate.png::CompressedTexture2D::1337783417734367952::1787624140::1787625435::1::::<><><>0<>0<>e32518b980624816cd764ddd048cbf50<>res://.godot/imported/AncientWeaponLiberate.png-3cb32f04f15c59d98cf605cdc3a0702c.ctex::
@@ -65,6 +65,7 @@ TheStars.png::CompressedTexture2D::4207767696378027741::1788074010::1788333629::
 TheSun.png::CompressedTexture2D::6326130141817534477::1788143304::1788333628::1::::<><><>0<>0<>b9df308905708ce3f2933759918d6a80<>res://.godot/imported/TheSun.png-28e31a545a7af4e38c579e0d3a0102af.ctex::
 TheTower.png::CompressedTexture2D::7440555731977135645::1788032653::1788280802::1::::<><><>0<>0<>54dd719454f8084e392ff1b8276cd7b1<>res://.godot/imported/TheTower.png-fa3aeacba364b9e56228f64b0e32a224.ctex::
 TheWorld.png::CompressedTexture2D::4696873601358512920::1788145543::1788340299::1::::<><><>0<>0<>f499d5b8b18e7b9919e37e8def36a339<>res://.godot/imported/TheWorld.png-e4f4eab6e26dfeca0ea5f3ad404973af.ctex::
+Verdant.png::CompressedTexture2D::4334772037953913221::1790134064::1790144898::1::::<><><>0<>0<>b711b3c64689806cf6cb6057d5b60ac4<>res://.godot/imported/Verdant.png-bd5ac1a66ffcb1582fcd9792fb5b20bb.ctex::
 WheelOfFortune.png::CompressedTexture2D::5779222752766817329::1787990580::1788230246::1::::<><><>0<>0<>f08a5c5eca1d456a43e0c2c958f8337b<>res://.godot/imported/WheelOfFortune.png-ac95a49e56d57cd61787b1b750742401.ctex::
 ::res://Astrologer/images/powers/::1788841523
 Anchor.png::CompressedTexture2D::8210963574393861249::1787189724::1787189885::1::::<><><>0<>0<>a6f08898b5612e378b1f2123a4b63172<>res://.godot/imported/Anchor.png-5d6f670ad9862155e6d29f61b12851b5.ctex::
@@ -93,7 +94,7 @@ energy_out.png::CompressedTexture2D::8375708133792704273::1786950162::1786951402
 ::res://Astrologer/localization/::1786511063
 ::res://Astrologer/localization/zhs/::1787041523
 ancients.json::JSON::-1::1786975481::0::1::::<><><>0<>0<><>::
-cards.json::JSON::-1::1790065638::0::1::::<><><>0<>0<><>::
+cards.json::JSON::-1::1790144725::0::1::::<><><>0<>0<><>::
 card_keywords.json::JSON::-1::1788489486::0::1::::<><><>0<>0<><>::
 characters.json::JSON::-1::1786956515::0::1::::<><><>0<>0<><>::
 powers.json::JSON::-1::1788841511::0::1::::<><><>0<>0<><>::
@@ -113,7 +114,7 @@ AstrologerPotionPool.cs::CSharpScript::5504137788977131166::1786931722::0::1::::
 AstrologerRelicPool.cs::CSharpScript::4397473150134711914::1786951381::0::1::::<><><>0<>0<><>::
 Entry.cs::CSharpScript::699508848978882721::1788223985::0::1::::<><><>0<>0<><>::
 TarotCardPool.cs::CSharpScript::7144778001468855354::1788163682::0::1::::<><><>0<>0<><>::
-::res://Scripts/Cards/::1790064751
+::res://Scripts/Cards/::1790140639
 AnchorMoon.cs::CSharpScript::6914164817358406954::1788167080::0::1::::<><><>0<>0<><>::
 AncientWeapon1.cs::CSharpScript::4925689432633565164::1787625212::0::1::::<><><>0<>0<><>::
 AncientWeapon2.cs::CSharpScript::1391329618395317784::1787625155::0::1::::<><><>0<>0<><>::
@@ -174,6 +175,7 @@ TheStars.cs::CSharpScript::8642890489104784252::1788332126::0::1::::<><><>0<>0<>
 TheSun.cs::CSharpScript::5053647366850995796::1788333449::0::1::::<><><>0<>0<><>::
 TheTower.cs::CSharpScript::8040145736359048200::1788281108::0::1::::<><><>0<>0<><>::
 TheWorld.cs::CSharpScript::2982982467518706061::1788340197::0::1::::<><><>0<>0<><>::
+Verdant.cs::CSharpScript::2000772800071718745::1790144743::0::1::::<><><>0<>0<><>::
 WheelOfFortune.cs::CSharpScript::402289309679456454::1788230187::0::1::::<><><>0<>0<><>::
 ::res://Scripts/Powers/::1788841522
 Anchor.cs::CSharpScript::5500206468418490561::1787023025::0::1::::<><><>0<>0<><>::

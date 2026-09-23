@@ -121,5 +121,7 @@
     "ASTROLOGER_CARD_FOG.title": "雾障烟屏",
     "ASTROLOGER_CARD_FOG.description": "获得{Block:diff()}点[gold]格挡[/gold]\r将1张[gold]晕眩[/gold]加入你的抽牌堆",
     "ASTROLOGER_CARD_DAWN.title": "破晓",
-    "ASTROLOGER_CARD_DAWN.description": "[gold]消耗[/gold]你手牌中的所有[gold]晕眩[/gold]\r每[gold]消耗[/gold]一张[gold]晕眩[/gold]\r抽一张牌\r获得一点能量"
+    "ASTROLOGER_CARD_DAWN.description": "[gold]消耗[/gold]你手牌中的所有[gold]晕眩[/gold]\r每[gold]消耗[/gold]一张[gold]晕眩[/gold]\r抽一张牌\r获得一点能量",
+    "ASTROLOGER_CARD_VERDANT.title": "苍翠打击",
+    "ASTROLOGER_CARD_VERDANT.description": "造成{Damage:diff()}点伤害{Repeat:diff()}次\r将1张[gold]晕眩[/gold]加入你的抽牌堆"
 }
