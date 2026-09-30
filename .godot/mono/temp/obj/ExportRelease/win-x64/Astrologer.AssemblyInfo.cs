@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Astrologer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("ExportRelease")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee30850b4e30382b1bd73ef1a894cb3348b58150")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc16ef0e494edd5192cbdf0475b7584d716a8f92")]
 [assembly: System.Reflection.AssemblyProductAttribute("Astrologer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Astrologer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

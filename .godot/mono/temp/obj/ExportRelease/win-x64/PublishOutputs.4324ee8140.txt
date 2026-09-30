@@ -186,5 +186,8 @@ C:\Users\Administrator\AppData\Local\Temp\godot-publish-dotnet\18056-ExportRelea
 C:\Users\Administrator\AppData\Local\Temp\godot-publish-dotnet\18056-ExportRelease-win-x64\mscorrc.dll
 C:\Users\Administrator\AppData\Local\Temp\godot-publish-dotnet\18056-ExportRelease-win-x64\msquic.dll
 C:\Users\Administrator\AppData\Local\Temp\godot-publish-dotnet\18056-ExportRelease-win-x64\GodotSharp.dll
+C:\Users\Administrator\AppData\Local\Temp\godot-publish-dotnet\18056-ExportRelease-win-x64\STS2-RitsuLib.Runtime.dll
+C:\Users\Administrator\AppData\Local\Temp\godot-publish-dotnet\18056-ExportRelease-win-x64\STS2-RitsuLib.Settings.dll
+C:\Users\Administrator\AppData\Local\Temp\godot-publish-dotnet\18056-ExportRelease-win-x64\STS2-RitsuLib.Shared.dll
+C:\Users\Administrator\AppData\Local\Temp\godot-publish-dotnet\18056-ExportRelease-win-x64\STS2-RitsuLib.Ui.dll
 C:\Users\Administrator\AppData\Local\Temp\godot-publish-dotnet\18056-ExportRelease-win-x64\STS2-RitsuLib.dll
-C:\Users\Administrator\AppData\Local\Temp\godot-publish-dotnet\18056-ExportRelease-win-x64\System.IO.Hashing.dll
