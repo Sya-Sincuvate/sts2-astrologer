@@ -30,5 +30,7 @@
     "ASTROLOGER_POWER_THE_WORLD_POWER.description": "在本回合后，额外进行一个回合",
     "ASTROLOGER_POWER_THE_WORLD_POWER.smartDescription": "在本回合后，额外进行{Amount}个回合",
     "ASTROLOGER_POWER_SNOW_PLUM_POWER.title": "踏雪寻梅",
-    "ASTROLOGER_POWER_SNOW_PLUM_POWER.description": "每当你[gold]消耗[/gold]一张牌\r增加{Amount}张随机卡牌到你的手牌"
+    "ASTROLOGER_POWER_SNOW_PLUM_POWER.description": "每当你[gold]消耗[/gold]一张牌\r增加{Amount}张随机卡牌到你的手牌",
+    "ASTROLOGER_POWER_HYPNAGOGIA_POWER.title": "梦醒时分",
+    "ASTROLOGER_POWER_HYPNAGOGIA_POWER.description": "每当你抽到一张[gold]晕眩[/gold]时\r抽{Amount}张牌"
 }

@@ -13,73 +13,73 @@
     <SourceRoot Include="C:\Users\Administrator\.nuget\packages\" />
   </ItemGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <None Include="$(NuGetPackageRoot)sts2.ritsulib\0.6.2\contentFiles\any\any\RitsuLib.References.props" Condition="Exists('$(NuGetPackageRoot)sts2.ritsulib\0.6.2\contentFiles\any\any\RitsuLib.References.props')">
+    <None Include="$(NuGetPackageRoot)sts2.ritsulib\0.6.3\contentFiles\any\any\RitsuLib.References.props" Condition="Exists('$(NuGetPackageRoot)sts2.ritsulib\0.6.3\contentFiles\any\any\RitsuLib.References.props')">
       <NuGetPackageId>STS2.RitsuLib</NuGetPackageId>
-      <NuGetPackageVersion>0.6.2</NuGetPackageVersion>
+      <NuGetPackageVersion>0.6.3</NuGetPackageVersion>
       <NuGetItemType>None</NuGetItemType>
       <Pack>false</Pack>
       <Private>False</Private>
       <Link>RitsuLib.References.props</Link>
     </None>
-    <None Include="$(NuGetPackageRoot)sts2.ritsulib\0.6.2\contentFiles\any\any\assets.zip" Condition="Exists('$(NuGetPackageRoot)sts2.ritsulib\0.6.2\contentFiles\any\any\assets.zip')">
+    <None Include="$(NuGetPackageRoot)sts2.ritsulib\0.6.3\contentFiles\any\any\assets.zip" Condition="Exists('$(NuGetPackageRoot)sts2.ritsulib\0.6.3\contentFiles\any\any\assets.zip')">
       <NuGetPackageId>STS2.RitsuLib</NuGetPackageId>
-      <NuGetPackageVersion>0.6.2</NuGetPackageVersion>
+      <NuGetPackageVersion>0.6.3</NuGetPackageVersion>
       <NuGetItemType>None</NuGetItemType>
       <Pack>false</Pack>
       <Private>False</Private>
       <Link>assets.zip</Link>
     </None>
-    <None Include="$(NuGetPackageRoot)sts2.ritsulib\0.6.2\contentFiles\any\any\compat-target.txt" Condition="Exists('$(NuGetPackageRoot)sts2.ritsulib\0.6.2\contentFiles\any\any\compat-target.txt')">
+    <None Include="$(NuGetPackageRoot)sts2.ritsulib\0.6.3\contentFiles\any\any\compat-target.txt" Condition="Exists('$(NuGetPackageRoot)sts2.ritsulib\0.6.3\contentFiles\any\any\compat-target.txt')">
       <NuGetPackageId>STS2.RitsuLib</NuGetPackageId>
-      <NuGetPackageVersion>0.6.2</NuGetPackageVersion>
+      <NuGetPackageVersion>0.6.3</NuGetPackageVersion>
       <NuGetItemType>None</NuGetItemType>
       <Pack>false</Pack>
       <Private>False</Private>
       <Link>compat-target.txt</Link>
     </None>
-    <None Include="$(NuGetPackageRoot)sts2.ritsulib\0.6.2\contentFiles\any\any\loader\STS2-RitsuLib.dll" Condition="Exists('$(NuGetPackageRoot)sts2.ritsulib\0.6.2\contentFiles\any\any\loader\STS2-RitsuLib.dll')">
+    <None Include="$(NuGetPackageRoot)sts2.ritsulib\0.6.3\contentFiles\any\any\loader\STS2-RitsuLib.dll" Condition="Exists('$(NuGetPackageRoot)sts2.ritsulib\0.6.3\contentFiles\any\any\loader\STS2-RitsuLib.dll')">
       <NuGetPackageId>STS2.RitsuLib</NuGetPackageId>
-      <NuGetPackageVersion>0.6.2</NuGetPackageVersion>
+      <NuGetPackageVersion>0.6.3</NuGetPackageVersion>
       <NuGetItemType>None</NuGetItemType>
       <Pack>false</Pack>
       <Private>False</Private>
       <Link>loader\STS2-RitsuLib.dll</Link>
     </None>
-    <None Include="$(NuGetPackageRoot)sts2.ritsulib\0.6.2\contentFiles\any\any\mod_manifest.json" Condition="Exists('$(NuGetPackageRoot)sts2.ritsulib\0.6.2\contentFiles\any\any\mod_manifest.json')">
+    <None Include="$(NuGetPackageRoot)sts2.ritsulib\0.6.3\contentFiles\any\any\mod_manifest.json" Condition="Exists('$(NuGetPackageRoot)sts2.ritsulib\0.6.3\contentFiles\any\any\mod_manifest.json')">
       <NuGetPackageId>STS2.RitsuLib</NuGetPackageId>
-      <NuGetPackageVersion>0.6.2</NuGetPackageVersion>
+      <NuGetPackageVersion>0.6.3</NuGetPackageVersion>
       <NuGetItemType>None</NuGetItemType>
       <Pack>false</Pack>
       <Private>False</Private>
       <Link>mod_manifest.json</Link>
     </None>
-    <None Include="$(NuGetPackageRoot)sts2.ritsulib\0.6.2\contentFiles\any\any\ritsulib-variants.manifest" Condition="Exists('$(NuGetPackageRoot)sts2.ritsulib\0.6.2\contentFiles\any\any\ritsulib-variants.manifest')">
+    <None Include="$(NuGetPackageRoot)sts2.ritsulib\0.6.3\contentFiles\any\any\ritsulib-variants.manifest" Condition="Exists('$(NuGetPackageRoot)sts2.ritsulib\0.6.3\contentFiles\any\any\ritsulib-variants.manifest')">
       <NuGetPackageId>STS2.RitsuLib</NuGetPackageId>
-      <NuGetPackageVersion>0.6.2</NuGetPackageVersion>
+      <NuGetPackageVersion>0.6.3</NuGetPackageVersion>
       <NuGetItemType>None</NuGetItemType>
       <Pack>false</Pack>
       <Private>False</Private>
       <Link>ritsulib-variants.manifest</Link>
     </None>
-    <None Include="$(NuGetPackageRoot)sts2.ritsulib\0.6.2\contentFiles\any\any\viewer\assets\index.css" Condition="Exists('$(NuGetPackageRoot)sts2.ritsulib\0.6.2\contentFiles\any\any\viewer\assets\index.css')">
+    <None Include="$(NuGetPackageRoot)sts2.ritsulib\0.6.3\contentFiles\any\any\viewer\assets\index.css" Condition="Exists('$(NuGetPackageRoot)sts2.ritsulib\0.6.3\contentFiles\any\any\viewer\assets\index.css')">
       <NuGetPackageId>STS2.RitsuLib</NuGetPackageId>
-      <NuGetPackageVersion>0.6.2</NuGetPackageVersion>
+      <NuGetPackageVersion>0.6.3</NuGetPackageVersion>
       <NuGetItemType>None</NuGetItemType>
       <Pack>false</Pack>
       <Private>False</Private>
       <Link>viewer\assets\index.css</Link>
     </None>
-    <None Include="$(NuGetPackageRoot)sts2.ritsulib\0.6.2\contentFiles\any\any\viewer\assets\index.js" Condition="Exists('$(NuGetPackageRoot)sts2.ritsulib\0.6.2\contentFiles\any\any\viewer\assets\index.js')">
+    <None Include="$(NuGetPackageRoot)sts2.ritsulib\0.6.3\contentFiles\any\any\viewer\assets\index.js" Condition="Exists('$(NuGetPackageRoot)sts2.ritsulib\0.6.3\contentFiles\any\any\viewer\assets\index.js')">
       <NuGetPackageId>STS2.RitsuLib</NuGetPackageId>
-      <NuGetPackageVersion>0.6.2</NuGetPackageVersion>
+      <NuGetPackageVersion>0.6.3</NuGetPackageVersion>
       <NuGetItemType>None</NuGetItemType>
       <Pack>false</Pack>
       <Private>False</Private>
       <Link>viewer\assets\index.js</Link>
     </None>
-    <None Include="$(NuGetPackageRoot)sts2.ritsulib\0.6.2\contentFiles\any\any\viewer\index.html" Condition="Exists('$(NuGetPackageRoot)sts2.ritsulib\0.6.2\contentFiles\any\any\viewer\index.html')">
+    <None Include="$(NuGetPackageRoot)sts2.ritsulib\0.6.3\contentFiles\any\any\viewer\index.html" Condition="Exists('$(NuGetPackageRoot)sts2.ritsulib\0.6.3\contentFiles\any\any\viewer\index.html')">
       <NuGetPackageId>STS2.RitsuLib</NuGetPackageId>
-      <NuGetPackageVersion>0.6.2</NuGetPackageVersion>
+      <NuGetPackageVersion>0.6.3</NuGetPackageVersion>
       <NuGetItemType>None</NuGetItemType>
       <Pack>false</Pack>
       <Private>False</Private>
